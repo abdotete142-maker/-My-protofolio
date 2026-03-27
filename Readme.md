@@ -65,6 +65,9 @@ The website was designed with a focus on:
 ## 📸 Screenshot
 
 (![alt text](image.png))
+(![alt text](1.png))
+(![alt text](2.png))
+(![alt text](3.png))
 
 ---
 
